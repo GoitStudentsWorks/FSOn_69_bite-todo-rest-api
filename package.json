@@ -1,7 +1,7 @@
 {
     "name": "bite-todo-rest-api",
     "version": "1.0.0",
-    "homepage": "https://GoitStudentsWorks.github.io/FSOn_69_project-REACT_NODE-bite-todo-rest-api/",
+    "homepage": "https://GoitStudentsWorks.github.io/FSOn_69_bite-todo-rest-api/",
     "scripts": {
         "start": "cross-env NODE_ENV=production node ./server.js",
         "start:dev": "cross-env NODE_ENV=development nodemon ./server.js",
